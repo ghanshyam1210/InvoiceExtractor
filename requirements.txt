@@ -1,6 +1,6 @@
 streamlit
-langchain
+#langchain
 google-generativeai
 python-dotenv
-PyPDF2
-chromadb
+#PyPDF2
+#chromadb
